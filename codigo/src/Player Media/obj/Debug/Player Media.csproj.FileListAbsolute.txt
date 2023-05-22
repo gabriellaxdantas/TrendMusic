@@ -1,0 +1,52 @@
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.exe.config
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.exe
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.pdb
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.AssemblyReference.cache
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.frmCadastro.resources
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.frmLogin.resources
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Properties.Resources.resources
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.GenerateResource.cache
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.CoreCompileInputs.cache
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.exe
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.pdb
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\CircularProgressBar.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\WinFormAnimation.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\CircularProgressBar.xml
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\WinFormAnimation.xml
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Carregar.resources
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.CopyComplete
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Interop.WMPLib.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\AxInterop.WMPLib.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.ResolveComReference.cache
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Form1.resources
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Guna.UI2.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Interop.WMPLib.dll
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.exe.config
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.exe
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Player Media.pdb
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\CircularProgressBar.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Guna.UI2.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\WinFormAnimation.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\CircularProgressBar.xml
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\WinFormAnimation.xml
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.ResolveComReference.cache
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.frmCadastro.resources
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Carregar.resources
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Form1.resources
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.frmLogin.resources
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player_Media.Properties.Resources.resources
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.csproj.CopyComplete
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.exe
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\obj\Debug\Player Media.pdb
+D:\GitHub Desktop\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\gabri\source\repos\aed-2022-1-sistema-de-compras-e-vendas\codigo\src\Player Media\bin\Debug\taglib-sharp.dll
