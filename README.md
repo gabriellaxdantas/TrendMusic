@@ -14,6 +14,13 @@ Trend Music é um player de música desenvolvido em C# com interface gráfica Wi
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+       <img src="https://github.com/gabriellaxdantas/TrendMusic/blob/5e7f42e3510bf15828ee16c1fceb14598e820b10/imgs/trendMusic01.png" alt="Tela principal">
+    </td>
+  </tr>
+</table>
 
 ## Funcionalidades
 - Cadastro e login de usuários com verificações e validações de usuário e senha.
