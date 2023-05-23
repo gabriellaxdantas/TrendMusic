@@ -3,6 +3,18 @@
 
 Trend Music é um player de música desenvolvido em C# com interface gráfica Windows Forms. Este projeto foi criado com base nos conceitos estudados em estrutura de dados, e incorpora recursos como lista duplamente encadeada, árvore binária e ordenação.
 
+## Interface
+<table>
+  <tr>
+     <td>
+      <img src="https://github.com/gabriellaxdantas/TrendMusic/blob/8abe41b6691c318243be11a2ba92b900ca5ed653/imgs/trendMusic03.png" alt="Cadastro">
+    </td>
+    <td>
+      <img src="(https://github.com/gabriellaxdantas/TrendMusic/blob/8abe41b6691c318243be11a2ba92b900ca5ed653/imgs/trendMusic02.png)" alt="Login">
+    </td>
+  </tr>
+</table>
+
 ## Funcionalidades
 - Cadastro e login de usuários com verificações e validações de usuário e senha.
 - Reprodução de músicas individuais.
